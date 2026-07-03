@@ -16,7 +16,7 @@ Proyek ini adalah aplikasi web yang mengimplementasikan metode **TF-IDF (Term Fr
 
 1. Unduh file ZIP-nya.
 2. Pindahkan folder proyek ke direktori server lokal Anda (misal: `C:\laragon\www\` atau `C:\xampp\htdocs\`).
-3. Import database `nama_database.sql` (jika ada) ke phpMyAdmin.
+3. Import database `tfidf_search.sql` (jika ada) ke phpMyAdmin.
 4. Sesuaikan konfigurasi database pada file koneksi proyek.
 5. Buka browser dan akses `http://localhost/searching-tf-idf-master`.
 
